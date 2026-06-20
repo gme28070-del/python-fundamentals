@@ -1,0 +1,10 @@
+{
+  "name": "python-fundamentals",
+  "version": "1.0.0",
+  "description": "Meu projeto Python",
+  "main": "index.py",
+  "scripts": {
+    "start": "python index.py"
+  },
+  "dependencies": {}
+}
